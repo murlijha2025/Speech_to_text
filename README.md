@@ -6,8 +6,8 @@ Create a Speech to Text service on IBM Cloud.
 Copy the API key and URL from the service's credentials page.
 Install and set your credentials:
 ```bash
-git clone https://github.com/murlijha2025/live-Speech-and-Recorded-Sound-to-Text.git
-cd live-Speech-and-Recorded-Sound-to-Text
+git clone https://github.com/murlijha2025/Speech_to_text.git
+cd Speech_to_text
 pip install -r requirements.txt
 ```
 Windows (PowerShell):
